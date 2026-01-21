@@ -1,4 +1,4 @@
-# Algorithm for Humanitarian Assistance D
+# Algorithm for Humanitarian Assistance 
 
 ## Context
 This project was developed as a **mini project** in the course **Fundamentals of Computer Programming**.
